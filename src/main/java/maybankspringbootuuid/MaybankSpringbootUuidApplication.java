@@ -1,0 +1,13 @@
+package maybankspringbootuuid;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MaybankSpringbootUuidApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MaybankSpringbootUuidApplication.class, args);
+	}
+
+}
